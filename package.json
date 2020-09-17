@@ -1,0 +1,20 @@
+{
+  "name": "messages-random-dp",
+  "version": "1.0.0",
+  "description": "random de mensajes",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "javascript",
+    "node"
+  ],
+  "author": "Diego Pagini",
+  "license": "MIT",
+  "bin": {
+    "random-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
